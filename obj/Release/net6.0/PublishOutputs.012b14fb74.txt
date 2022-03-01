@@ -1,0 +1,7 @@
+/Users/magnusorr/Local Sites/Azure-App/Nexus-1-WebApp/bin/Release/net6.0/publish/Nexus-1-WebApp
+/Users/magnusorr/Local Sites/Azure-App/Nexus-1-WebApp/bin/Release/net6.0/publish/appsettings.Development.json
+/Users/magnusorr/Local Sites/Azure-App/Nexus-1-WebApp/bin/Release/net6.0/publish/appsettings.json
+/Users/magnusorr/Local Sites/Azure-App/Nexus-1-WebApp/bin/Release/net6.0/publish/Nexus-1-WebApp.dll
+/Users/magnusorr/Local Sites/Azure-App/Nexus-1-WebApp/bin/Release/net6.0/publish/Nexus-1-WebApp.deps.json
+/Users/magnusorr/Local Sites/Azure-App/Nexus-1-WebApp/bin/Release/net6.0/publish/Nexus-1-WebApp.runtimeconfig.json
+/Users/magnusorr/Local Sites/Azure-App/Nexus-1-WebApp/bin/Release/net6.0/publish/Nexus-1-WebApp.pdb
